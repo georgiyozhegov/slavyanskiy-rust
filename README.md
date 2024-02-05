@@ -12,7 +12,7 @@ cd славянский-rust
 ```
 cargo build --release
 cp target/release/славянский-rust ./славянский-rust
-./славянский-rust examples/летопись.слв
+./славянский-rust examples/печать_закона.слв
 ```
 
 # Important
